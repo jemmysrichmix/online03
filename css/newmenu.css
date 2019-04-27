@@ -149,6 +149,12 @@ button:hover{
 }
 
 
+input {
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+}
+
 @media (max-width: 900px){
   .m-container{
   }
